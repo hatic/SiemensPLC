@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\bin\Debug\SiemensPLC.exe.config
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\SiemensPLC.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\SiemensPLC.csproj.ResolveComReference.cache
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\SiemensPLC.Form1.resources
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\SiemensPLC.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\SiemensPLC.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\SiemensPLC.exe.licenses
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\bin\Debug\SiemensPLC.exe
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\bin\Debug\SiemensPLC.pdb
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\SiemensPLC.exe
+C:\Users\USER\documents\visual studio 2012\Projects\SiemensPLC\SiemensPLC\obj\Debug\SiemensPLC.pdb
